@@ -1,0 +1,47 @@
+Lead Programmer for an Open-World Western Action/Adventure [UE4]
+
+At ASTEROID ARTS
+
+
+Programmers located Anywhere.
+
+Posted by Facebook.com on Jan 3rd, 2018
+
+Asteroid Arts are looking for an extremely skilled programmer to work on our upcoming ambitious Western Action/Adventure entirely within Unreal Engine 4!
+
+You will be responsible for leading the programming team responsible for creating all the computer code which runs and controls the game. Producing the technical specification of the game and managing the overall code development process.
+
+We will use UE4 to its full potential to get the most fluid and prettiest game possible.
+
+REQUIRED:
+
+>Strong C#, C++, JavaScript or equivalent skills.
+>Skilled within UE4 and/or external programming software (MonoDevelop, Visual Studio etc.)
+>The ability to add core mechanics into the game, from the design team.
+>Work well in a team.
+>Be a team player and a leader.
+>Be approachable and listen to what people need and want, both from other disciplines and within your own team.
+>Be able to communicate your ideas and vision to the programming team.
+>Be able to inspire and motivate the programming team to ensure that everything gets fixed on schedule.
+>Have a hands-on understanding of all programming roles.
+>Have advanced programming skills.
+>Have excellent people management and communication skills, including tact and diplomacy.
+>Be able to resolve conflicts and solve problems.
+>be able to multitask.
+>Be creative and innovative.
+>Be composed under pressure.
+>Strong math skills.
+>Have access to either Facebook, Skype or Discord (Preferably Discord).
+
+DESIREABLE:
+
+>Gaming enthusiast.
+>Western enthusiast.
+>Extremely familiar with the UE4 workflow and menus.
+>Professional experience in the game industry (NOT REQUIRED).
+>A degree in Computer Science, Mathematics or equivalent.
+>A tidy coder - no messy code.
+
+To Apply
+Email either a description of your skills, a CV/Resume and/or any previous projects you've worked on (Video links, screenshots etc.)
+Email: asteroidartsofficial@gmail.com or coletatham@hotmail.co.uk
